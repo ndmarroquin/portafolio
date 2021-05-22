@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: #46484F;
+}
+section{
+    width: 1000px;
+    margin: 30px auto;
+    box-sizing: border-box;
+}
+
+.encabezado h1{
+    width: 1300px;
+    font-size:20px;
+    margin: 20px 0px 0px 0px;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: right;
+}
+
+.TITULO{
+    color: white;
+    Font-size:30px;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 10px 0px 0px 0px;
+    text-align: center;
+}
+.descripcion_section1{
+    font-size: 18px;
+    text-align: center;
+}
+
+.tabla_tipo_etiquetas{
+    
+}
+.tabla_tipo_etiquetas{
+    border: 1px solid black;
+}
+.filaTitulo{
+    background-color: red;
+}
+.txt_titulo{
+    padding: 5px 0px 5px 0px;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+.descripcion_tipo_etiquetas td{
+    font-size:15px;
+    width:50%;
+    padding: 5px 5px 5px 5px;
+    box-sizing: border-box;
+    text-align: justify;
+}
+
+.color-tr{
+    background-color: black;
+}
+.titulo_categoria{
+    Font-size:17px;
+    color: black;
+    text-align: center;
+}
+.ls_tipo_etiqueta{
+    color: blueviolet;
+    font-family: 'Source Sans Pro', sans-serif;
+    list-style: none;
+    margin: 0px 0px 0px 50px;
+}
+.ls_tipo_etiqueta li{
+    margin: 10px 0px 50px 0px;
+}
+.titulo_elemento_categoria{
+    Font-size:17px;
+    color: white;
+    text-align: center;
+    margin: 10px 0px 0px 0px;
+}
+.descripcion_elemento{
+    font-size: 15px;
+}
+
+.titulo_para_head, .titulo_para_body{
+    font-size: 15px;
+    padding: 10px 0px 0px 0px;
+    margin: 10px 0px 10px 0px;
+}
+
+.txt_etiqueta{
+    width: 300px;
+    vertical-align:top;
+    padding-bottom: 15px;
+}
+

@@ -1,0 +1,57 @@
+*{
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: white;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 15px 50px 0px 50px;
+    box-sizing: border-box;
+    padding-top: 25px;
+}
+.MenuT{
+    background-color: black; 
+}
+.menu{
+    background-color: black;
+    list-style: none;
+    width: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around
+}
+.Munu_L{
+    background-color: black;
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+:root{
+    --color1: blue;
+    --color2: white;
+    --color3: black;
+    
+    --colorTexto: black;
+}
+.Nombre{
+    font-size: 20px;
+    background-color: black;
+}
+
+footer{
+    width: 100%;
+    height: 60px;
+    background-color: #138D75;
+    font-size: 30px;
+    color: black;
+    padding-top: 30px;
+    text-align: center;
+}
